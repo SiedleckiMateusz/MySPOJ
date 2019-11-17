@@ -3,6 +3,37 @@
   <component name="ChangeListManager">
     <list default="true" id="dcc2aa8b-e888-465d-b42a-91f981793205" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/DwiecyfrySilni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/IleImion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/Imiona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/LiczbyPierwsze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/MniejszeNiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/PobieranieKilkuLini.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/ProsteDodawanie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/ReadUntil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/RodzajTrojkata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/SoftEnigma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/Tablica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/Tablice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/Wiatraczek$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/Wiatraczek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/ZabawneDodawaniePiotrusia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/DwiecyfrySilni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/DwiecyfrySilni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/Imiona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Imiona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/LiczbyPierwsze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/LiczbyPierwsze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/MniejszeNiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/MniejszeNiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PobieranieKilkuLini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/PobieranieKilkuLini.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/ProsteDodawanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ProsteDodawanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/ReadUntil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ReadUntil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/SoftEnigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/SoftEnigma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/Tablica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Tablica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/Tablice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Tablice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/Wiatraczek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Wiatraczek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/ZabawneDodawaniePiotrusia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ZabawneDodawaniePiotrusia.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +67,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProsteDodawanie">
-    <configuration name="ProsteDodawanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.ProsteDodawanie" />
+  <component name="RunManager" selected="Application.LiczbyPierwsze2">
+    <configuration name="CzyUmieszPotegowac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.CzyUmieszPotegowac" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tablica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.Tablica" />
+    <configuration name="Flamaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.Flamaster" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.Tablice" />
+    <configuration name="LiczbyPierwsze2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.LiczbyPierwsze2" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wiatraczek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.Wiatraczek" />
+    <configuration name="PrimeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.EnglishSPOJ.PrimeIntervals" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.EnglishSPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZabawneDodawaniePiotrusia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.ZabawneDodawaniePiotrusia" />
+    <configuration name="Przedszkolanka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.Przedszkolanka" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.*" />
+          <option name="PATTERN" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Wiatraczek" />
-      <item itemvalue="Application.Tablica" />
-      <item itemvalue="Application.Tablice" />
-      <item itemvalue="Application.ZabawneDodawaniePiotrusia" />
-      <item itemvalue="Application.ProsteDodawanie" />
+      <item itemvalue="Application.PrimeIntervals" />
+      <item itemvalue="Application.Przedszkolanka" />
+      <item itemvalue="Application.Flamaster" />
+      <item itemvalue="Application.CzyUmieszPotegowac" />
+      <item itemvalue="Application.LiczbyPierwsze2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProsteDodawanie" />
-        <item itemvalue="Application.ZabawneDodawaniePiotrusia" />
-        <item itemvalue="Application.Tablice" />
-        <item itemvalue="Application.Tablica" />
-        <item itemvalue="Application.Wiatraczek" />
+        <item itemvalue="Application.LiczbyPierwsze2" />
+        <item itemvalue="Application.CzyUmieszPotegowac" />
+        <item itemvalue="Application.Flamaster" />
+        <item itemvalue="Application.Przedszkolanka" />
+        <item itemvalue="Application.PrimeIntervals" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +168,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -147,24 +180,52 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/Tablice.java</url>
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Tablice.java</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/ZabawneDodawaniePiotrusia.java</url>
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ZabawneDodawaniePiotrusia.java</url>
           <line>12</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/ZabawneDodawaniePiotrusia.java</url>
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ZabawneDodawaniePiotrusia.java</url>
           <line>15</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/ZabawneDodawaniePiotrusia.java</url>
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ZabawneDodawaniePiotrusia.java</url>
           <line>28</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/EnglishSPOJ/PrimeIntervals.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/EnglishSPOJ/PrimeIntervals.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Flamaster.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Flamaster.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Przedszkolanka.java</url>
+          <line>19</line>
+          <properties class="pl.mateusz.siedlecki.spoj.PolishSPOJ.Przedszkolanka" method="findNWW">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
