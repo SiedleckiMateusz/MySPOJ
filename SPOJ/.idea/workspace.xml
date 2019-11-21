@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcc2aa8b-e888-465d-b42a-91f981793205" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/PolishSPOJ/NWD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SPOJ/pl/mateusz/siedlecki/spoj/PolishSPOJ/NWD.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +37,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NWD">
-    <configuration name="CzyUmieszPotegowac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.CzyUmieszPotegowac" />
+  <component name="RunManager" selected="Application.Dwumiany">
+    <configuration name="Dwumiany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.Dwumiany" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flamaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.Flamaster" />
+    <configuration name="GraEuklidesa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.GraEuklidesa" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiczbyPierwsze2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.LiczbyPierwsze2" />
+    <configuration name="ProblemCollatza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.ProblemCollatza" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NWD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.NWD" />
+    <configuration name="ROL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.ROL" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Przedszkolanka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.Przedszkolanka" />
+    <configuration name="SkarbFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mateusz.siedlecki.spoj.PolishSPOJ.SkarbFinder" />
       <module name="SPOJ" />
       <extension name="coverage">
         <pattern>
@@ -103,19 +104,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Przedszkolanka" />
-      <item itemvalue="Application.Flamaster" />
-      <item itemvalue="Application.CzyUmieszPotegowac" />
-      <item itemvalue="Application.LiczbyPierwsze2" />
-      <item itemvalue="Application.NWD" />
+      <item itemvalue="Application.SkarbFinder" />
+      <item itemvalue="Application.ProblemCollatza" />
+      <item itemvalue="Application.ROL" />
+      <item itemvalue="Application.GraEuklidesa" />
+      <item itemvalue="Application.Dwumiany" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NWD" />
-        <item itemvalue="Application.LiczbyPierwsze2" />
-        <item itemvalue="Application.CzyUmieszPotegowac" />
-        <item itemvalue="Application.Flamaster" />
-        <item itemvalue="Application.Przedszkolanka" />
+        <item itemvalue="Application.Dwumiany" />
+        <item itemvalue="Application.GraEuklidesa" />
+        <item itemvalue="Application.ROL" />
+        <item itemvalue="Application.ProblemCollatza" />
+        <item itemvalue="Application.SkarbFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +191,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/NWD.java</url>
-          <line>19</line>
+          <line>17</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/NWD.java</url>
-          <line>20</line>
+          <line>18</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ProblemCollatza.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Dwumiany.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Przedszkolanka.java</url>
@@ -208,11 +219,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/NWD.java</url>
-          <line>34</line>
+          <line>32</line>
           <properties class="pl.mateusz.siedlecki.spoj.PolishSPOJ.NWD" method="nwd">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/ProblemCollatza.java</url>
+          <line>28</line>
+          <properties class="pl.mateusz.siedlecki.spoj.PolishSPOJ.ProblemCollatza" method="calculateByRecursion">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pl/mateusz/siedlecki/spoj/PolishSPOJ/Dwumiany.java</url>
+          <line>31</line>
+          <properties class="pl.mateusz.siedlecki.spoj.PolishSPOJ.Dwumiany" method="factorial">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
